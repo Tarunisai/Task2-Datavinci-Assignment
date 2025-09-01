@@ -1,4 +1,5 @@
-import NestedCheckbox from "./NestedCheckbox";
+import React from "react";
+import NestedCheckbox from "./components/NestedCheckbox";
 
 function App() {
   return (
@@ -10,3 +11,4 @@ function App() {
 }
 
 export default App;
+
